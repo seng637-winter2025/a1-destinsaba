@@ -146,6 +146,8 @@ As a team of four, we first split into two pairs. Each pair was assigned roughly
 
 When reviewing reports, all team members reviewed all other reports that they did not write themselves.
 
+The lab report was written as a team in Google Docs and then transferred to markdown format once complete to enable easier collaboration.
+
 # 6 Difficulties encountered, challenges overcome, and lessons learned
 
 The first challenge we encountered involved setting up the Jira Kanban board for bug tracking. To maintain consistent bug reports adhering to the assignment guidelines, we decided to create a custom issue template. After adding and removing custom fields, we found that many of the unused fields were being printed when exporting to .docx or .csv. To resolve this, we manually removed empty fields from the .docx export.
