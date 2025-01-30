@@ -12,24 +12,22 @@
 
 **Table of Contents**
 
-(When you finish writing, update the following list using right click, then
-“Update Field”)
+- [1 Introduction](#1-introduction)
+  - [1.1 Types of Testing](#11-types-of-testing)
+- [2 High-level description of the exploratory testing plan](#2-high-level-description-of-the-exploratory-testing-plan)
+  - [2.1 Test Type](#21-test-type)
+  - [2.2 Scope of Testing](#22-scope-of-testing)
+    - [2.2.1 Features to be Tested](#221-features-to-be-tested)
+    - [2.2.2 Features Not Tested](#222-features-not-tested)
+  - [2.3 Test Logistics](#23-test-logistics)
+    - [2.3.1 Who will test?](#231-who-will-test)
+    - [2.3.2 When Will testing Occur?](#232-when-will-testing-occur)
+- [3 Comparison of exploratory and manual functional testing](#3-comparison-of-exploratory-and-manual-functional-testing)
+- [4 Notes and discussion of the peer reviews of defect reports](#4-notes-and-discussion-of-the-peer-reviews-of-defect-reports)
+- [5 How the pair testing was managed and team work/effort was divided](#5-how-the-pair-testing-was-managed-and-team-workeffort-was-divided)
+- [6 Difficulties encountered, challenges overcome, and lessons learned](#6-difficulties-encountered-challenges-overcome-and-lessons-learned)
+- [7 Comments/feedback on the lab and lab document itself](#7-commentsfeedback-on-the-lab-and-lab-document-itself)
 
-[1 Introduction	1](#_Toc439194677)
-
-[2 High-level description of the exploratory testing plan	1](#_Toc439194678)
-
-[3 Comparison of exploratory and manual functional testing	1](#_Toc439194679)
-
-[4 Notes and discussion of the peer reviews of defect reports	1](#_Toc439194680)
-
-[5 How the pair testing was managed and team work/effort was
-divided	1](#_Toc439194681)
-
-[6 Difficulties encountered, challenges overcome, and lessons
-learned	1](#_Toc439194682)
-
-[7 Comments/feedback on the lab and lab document itself	1](#_Toc439194683)
 
 # 1 Introduction
 
