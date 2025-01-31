@@ -140,6 +140,8 @@ Some of the team’s key considerations when peer reviewing the defect reports w
 - Maintaining consistency across priority ratings: The definitions of “Low”, “Medium”, and “Critical” priority are not inherently obvious, and it was important that the team was using a consistent rating scale so that bug defects could be addressed in an appropriate order.
 - Ensuring thoroughness in reports: It is important that every bug report is detailed enough to understand and recreate the bug whether or not the reviewer has experienced it. When reviewing reports, the reviewer ensured that they could follow the reports and recreate the bugs.
 
+Overall, the peer review process was well-received and had a positive impact on the quality and consistency of the defect reports. As the system complexity increases, the value of peer reviews would also increase.
+
 # 5 How the pair testing was managed and team work/effort was divided 
 
 As a team of four, we first split into two pairs. Each pair was assigned roughly half of the testing scope, based on the SUT’s key functionalities. The pair assigned to each scope is included in section 2.3.1. We completed pair testing, where one member conducts the tests and the other reviews and documents the test. Each member completed half of their tests as the tester, and the other half as the reviewer.
